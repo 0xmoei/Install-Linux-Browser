@@ -1,4 +1,5 @@
-# Install-Linux-Browser
+# Install Chromium Linux Browser
+Chromium is an open-source browser project that aims to build a safer, faster, and more stable build by Google
 
 ## Install Docker
 ```console
