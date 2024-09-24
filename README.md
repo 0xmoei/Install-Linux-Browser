@@ -1,5 +1,7 @@
 # Install Chromium Linux Browser
 Chromium is an open-source browser project that aims to build a safer, faster, and more stable build by Google
+* You can easily access a browser in your non-gui Linux server
+* You can easily run your Node Extensions 
 
 ## Install Docker
 ```console
