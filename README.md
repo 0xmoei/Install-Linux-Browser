@@ -81,8 +81,8 @@ cd $HOME && cd chromium
 docker compose up -d
 ```
 **The application can be accessed by going to one of these addresses in your local PC browser**
-* http://Server_IP:3000/
-* https://Server_IP:3001/
+* http://Server_IP:3010/
+* https://Server_IP:3011/
 
 ## Optional: Stop and Delete Chromium
 ```
